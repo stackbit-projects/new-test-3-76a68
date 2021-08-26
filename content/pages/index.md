@@ -14,7 +14,7 @@ sections:
         style: secondary
         has_icon: false
         icon_position: right
-        icon: arrow-right
+        icon: envelope
   - section_id: features
     type: section_features
     background: gray

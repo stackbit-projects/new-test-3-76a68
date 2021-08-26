@@ -6,9 +6,8 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: All about the super duper
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      I think this would be a great test site
     actions:
       - label: Learn More
         url: /features

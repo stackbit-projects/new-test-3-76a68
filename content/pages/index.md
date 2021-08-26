@@ -12,7 +12,7 @@ sections:
       - label: Don't press this button
         url: /features
         style: secondary
-        has_icon: false
+        has_icon: true
         icon_position: right
         icon: envelope
   - section_id: features

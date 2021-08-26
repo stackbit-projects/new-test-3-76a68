@@ -14,7 +14,7 @@ sections:
         style: secondary
         has_icon: true
         icon_position: right
-        icon: envelope
+        icon: github
   - section_id: features
     type: section_features
     background: gray

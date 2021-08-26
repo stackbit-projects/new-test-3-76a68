@@ -24,7 +24,7 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
+                "label": "Login",
                 "url": "/signup",
                 "style": "primary"
             }

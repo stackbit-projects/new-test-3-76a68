@@ -13,6 +13,7 @@ sections:
         url: /features
         style: secondary
         has_icon: false
+        icon_position: right
   - section_id: features
     type: section_features
     background: gray

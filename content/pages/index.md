@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Don't press this button
         url: /features
-        style: primary
+        style: link
         has_icon: false
   - section_id: features
     type: section_features

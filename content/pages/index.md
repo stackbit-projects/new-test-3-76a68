@@ -110,6 +110,12 @@ sections:
     background: gray
     pricing_plans: []
     type: section_pricing
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 seo:
   title: All about the Super Duper
   description: Preview of the Super Duper

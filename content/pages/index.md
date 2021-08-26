@@ -104,7 +104,7 @@ sections:
     title: Latest Posts
 seo:
   title: All about the Super Duper
-  description: The preview of the Azimuth theme
+  description: Preview of the Super Duper
   extra:
     - name: 'og:type'
       value: website

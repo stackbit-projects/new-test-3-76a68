@@ -15,7 +15,7 @@ sections:
         has_icon: false
         icon_position: right
         icon: arrow-right
-      - label: lorem-ipsum
+      - label: text that goes next to this button
         url: lorem-ipsum
         style: link
         has_icon: false

@@ -9,7 +9,7 @@ sections:
     content: |
       I think this would be a great test site
     actions:
-      - label: Don't press this button
+      - label: Your email
         url: /features
         style: secondary
         has_icon: true

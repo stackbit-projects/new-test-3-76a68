@@ -15,7 +15,7 @@ sections:
         has_icon: true
         icon_position: right
         icon: github
-      - label: 'Get a '
+      - label: View Demo
         url: lorem-ipsum
         style: link
         has_icon: false

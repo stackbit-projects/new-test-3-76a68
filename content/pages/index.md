@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/AdobeStock_247158864.jpeg
+    image: /images/dribbble.gif
     image_alt: App preview
     title: All about the super duper
     content: |

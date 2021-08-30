@@ -17,7 +17,7 @@ sections:
         icon: github
       - label: View Demo
         url: lorem-ipsum
-        style: primary
+        style: link
         has_icon: false
         icon: arrow-left
         icon_position: left

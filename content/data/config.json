@@ -2,7 +2,7 @@
     "title": "Super Duper Company",
     "path_prefix": "/",
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "cyan",
     "header": {
         "logo_img": "/images/analysis_2.png",
         "logo_img_alt": "Superduper company",

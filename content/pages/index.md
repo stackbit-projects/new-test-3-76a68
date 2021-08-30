@@ -24,7 +24,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: Create a free account >
+      - label: 'Create a free account '
         url: lorem-ipsum
         style: link
         has_icon: false
